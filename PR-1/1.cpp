@@ -21,8 +21,6 @@ int main()
     cout << "Inch: ";
     cin >> d2.inch;
 
-    // Logic
-
     int totalFeet = d1.feet + d2.feet;
     int totalInch = d1.inch + d2.inch;
 
