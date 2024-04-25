@@ -59,14 +59,14 @@ int main()
 {
 
     CustomerData obj1, obj2, obj3, obj4, obj5;
-    obj1.setter(); // Student data intput
+    obj1.setter();
     obj2.setter();
     obj2.setter();
     obj3.setter();
     obj4.setter();
     obj5.setter();
 
-    obj1.getter(); // Student data output
+    obj1.getter(); 
     obj2.getter();
     obj2.getter();
     obj3.getter();
